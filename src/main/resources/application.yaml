@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: github-actions-demo-app
+server:
+  port: 8082
